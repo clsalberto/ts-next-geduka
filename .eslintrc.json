@@ -31,6 +31,7 @@
           "/^react/",
           "/^next/",
           "module",
+          "/^~/utils/",
           "/^~/components/",
           "/^~/app/",
           [
